@@ -7,8 +7,12 @@ tx-git-workshop
 
 4. Kitsanapong Rodjing
 
+4. Pasakorn Phareyart
+
 5. Pasakorn Phareyart
 
 6. Phawit Pukamkom
 
-7. Samut Chouybumrung
+7. Supatcharee Chaiya
+
+8. Samut Chouybumrung
