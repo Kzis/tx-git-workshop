@@ -28,10 +28,18 @@ tx-git-workshop
 
 13. Akkharawat Burachokviwat
 
+14. Thataphon Srisuthep
+
 15. Thanwarat Aroonrung
 
 16. Piyarat Pearodwong
 
 17. Akira Sitdhikariyawat
 
+<<<<<<< HEAD
 18. Aiyapat Jariyakanjana
+=======
+18. Phakawat Tapaopong
+
+19. Samut Chouybumrung
+>>>>>>> main
