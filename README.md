@@ -23,4 +23,7 @@ tx-git-workshop
 
 12. Pattarin Urapevatcharewan
 
-13. Akkharawat Burachokviwat
+13. Nitchayaphan Kanpirompachira
+
+14. Akkharawat Burachokviwat
+
