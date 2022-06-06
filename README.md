@@ -13,8 +13,14 @@ tx-git-workshop
 
 7. Supatcharee Chaiya
 
-11. Pakkapong Rattanapakdeekun
+8. Pattarin Urapevatcharewan
+
+9. Pakkapong Rattanapakdeekun
+
+10. Natapatchara Anuroje
+
+11. Ramita Chongcham
 
 12. Pattarin Urapevatcharewan
 
-9. Akira Sitdhikariyawat
+13. Akira Sitdhikariyawat
