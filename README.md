@@ -21,6 +21,10 @@ tx-git-workshop
 
 11. Ramita Chongcham
 
+
+12. Natapatchara Anuroje
+
+
 12. Pattarin Urapevatcharewan
 
-13. Aiyapat Jariyakanjana
+14. Aiyapat Jariyakanjana
