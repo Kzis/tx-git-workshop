@@ -36,10 +36,6 @@ tx-git-workshop
 
 17. Akira Sitdhikariyawat
 
-<<<<<<< HEAD
-18. Aiyapat Jariyakanjana
-=======
 18. Phakawat Tapaopong
 
 19. Samut Chouybumrung
->>>>>>> main
