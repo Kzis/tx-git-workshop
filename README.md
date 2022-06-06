@@ -9,13 +9,18 @@ tx-git-workshop
 
 4. Pasakorn Phareyart
 
-
-5. Pasakorn Phareyart
-
 6. Phawit Pukamkom
 
 7. Supatcharee Chaiya
 
-11. Pakkapong Rattanapakdeekun
+8. Pattarin Urapevatcharewan
 
-12. Nitchayaphan Kanpirompachira
+9. Pakkapong Rattanapakdeekun
+
+10. Natapatchara Anuroje
+
+11. Ramita Chongcham
+
+12. Pattarin Urapevatcharewan
+
+13. Nitchayaphan Kanpirompachira
