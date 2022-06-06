@@ -10,3 +10,5 @@ tx-git-workshop
 5. Pasakorn Phareyart
 
 6. Phawit Pukamkom
+
+7. Aiyapat Jariyakanjana
