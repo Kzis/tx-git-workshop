@@ -23,11 +23,7 @@ tx-git-workshop
 
 12. Pattarin Urapevatcharewan
 
-<<<<<<< HEAD
-13. Chaiwet Muito
-=======
 13. Nitchayaphan Kanpirompachira
 
 14. Akkharawat Burachokviwat
 
->>>>>>> main
