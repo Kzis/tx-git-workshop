@@ -13,6 +13,6 @@ tx-git-workshop
 
 7. Supatcharee Chaiya
 
-11. Pakkapong Rattanapakdeekun
+8. Pattarin Urapevatcharewan
 
-12. Pattarin Urapevatcharewan
+9. Pakkapong Rattanapakdeekun
