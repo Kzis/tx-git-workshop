@@ -26,5 +26,12 @@ tx-git-workshop
 =======
 12. Pattarin Urapevatcharewan
 
+<<<<<<< HEAD
 13. Akkharawat Burachokviwat
 >>>>>>> 4a0ed30481510c3951ce94f26c4e1b2b11fe0ec7
+=======
+13. Nitchayaphan Kanpirompachira
+
+14. Akkharawat Burachokviwat
+
+>>>>>>> 75a1b64af4120ccf50e152a3338ed21978f3fc0d
