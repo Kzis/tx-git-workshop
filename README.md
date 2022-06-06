@@ -5,20 +5,22 @@ tx-git-workshop
 
 2. Marut Maluleem
 
-4. Kitsanapong Rodjing
+3. Kitsanapong Rodjing
 
 4. Pasakorn Phareyart
 
-6. Phawit Pukamkom
+5. Phawit Pukamkom
 
-7. Supatcharee Chaiya
+6. Supatcharee Chaiya
 
-11. Pakkapong Rattanapakdeekun
+7. Pattarin Urapevatcharewan
 
-12. Natapatchara Anuroje
+8. Pakkapong Rattanapakdeekun
 
-13. Pattarin Urapevatcharewan
+9. Natapatchara Anuroje
 
-14. Piyarat Pearodwong
+10. Ramita Chongcham
 
+11. Pattarin Urapevatcharewan
 
+12. Piyarat Pearodwong
