@@ -21,4 +21,10 @@ tx-git-workshop
 
 11. Ramita Chongcham
 
+<<<<<<< HEAD
 12. Pattarin Urapevatcharewans
+=======
+12. Pattarin Urapevatcharewan
+
+13. Akkharawat Burachokviwat
+>>>>>>> 4a0ed30481510c3951ce94f26c4e1b2b11fe0ec7
