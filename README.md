@@ -24,12 +24,16 @@ tx-git-workshop
 
 11. Pattarin Urapevatcharewan
 
-12. Pattarin Urapevatcharewan
+11. Pattarin Urapevatcharewan
 
-13. Nitchayaphan Kanpirompachira
+12. Nitchayaphan Kanpirompachira
 
-14. Akkharawat Burachokviwat
+13. Akkharawat Burachokviwat
 
 15. Thanwarat Aroonrung
 
-17. Phakawat Tapaopong
+16. Piyarat Pearodwong
+
+17. Akira Sitdhikariyawat
+
+18. Phakawat Tapaopong
