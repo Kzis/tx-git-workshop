@@ -24,11 +24,11 @@ tx-git-workshop
 
 11. Pattarin Urapevatcharewan
 
-11. Pattarin Urapevatcharewan
-
 12. Nitchayaphan Kanpirompachira
 
 13. Akkharawat Burachokviwat
+
+14. Thataphon Srisuthep
 
 15. Thanwarat Aroonrung
 
@@ -36,4 +36,8 @@ tx-git-workshop
 
 17. Akira Sitdhikariyawat
 
-18. Natnicha Khongsoontorn
+18. Phakawat Tapaopong
+
+19. Samut Chouybumrung
+
+20. Natnicha Khongsoontorn
