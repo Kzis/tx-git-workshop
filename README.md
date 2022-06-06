@@ -7,8 +7,16 @@ tx-git-workshop
 
 4. Kitsanapong Rodjing
 
-5. Pasakorn Phareyart
+4. Pasakorn Phareyart
 
 6. Phawit Pukamkom
 
-7. Aiyapat Jariyakanjana
+7. Supatcharee Chaiya
+
+11. Pakkapong Rattanapakdeekun
+
+
+12. Natapatchara Anuroje
+
+
+13. Aiyapat Jariyakanjana
