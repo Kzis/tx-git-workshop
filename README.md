@@ -1,25 +1,28 @@
 # tx-git-workshop
+
 tx-git-workshop
 
 1. Chalat Monkhontirapat
 
 2. Marut Maluleem
 
-4. Kitsanapong Rodjing
+3. Kitsanapong Rodjing
 
 4. Pasakorn Phareyart
 
-6. Phawit Pukamkom
+5. Phawit Pukamkom
 
-7. Supatcharee Chaiya
+6. Supatcharee Chaiya
 
-8. Pattarin Urapevatcharewan
+7. Pattarin Urapevatcharewan
 
-9. Pakkapong Rattanapakdeekun
+8. Pakkapong Rattanapakdeekun
 
-10. Natapatchara Anuroje
+9. Natapatchara Anuroje
 
-11. Ramita Chongcham
+10. Ramita Chongcham
+
+11. Pattarin Urapevatcharewan
 
 <<<<<<< HEAD
 12. Pattarin Urapevatcharewans
@@ -34,4 +37,8 @@ tx-git-workshop
 
 14. Akkharawat Burachokviwat
 
+<<<<<<< HEAD
 >>>>>>> 75a1b64af4120ccf50e152a3338ed21978f3fc0d
+=======
+15. Thanwarat Aroonrung
+>>>>>>> 132630f6b26375afc85f6016900c0fb2074b695f
