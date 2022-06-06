@@ -24,21 +24,16 @@ tx-git-workshop
 
 11. Pattarin Urapevatcharewan
 
-<<<<<<< HEAD
-12. Pattarin Urapevatcharewans
-=======
-12. Pattarin Urapevatcharewan
+11. Pattarin Urapevatcharewan
 
-<<<<<<< HEAD
+12. Nitchayaphan Kanpirompachira
+
 13. Akkharawat Burachokviwat
->>>>>>> 4a0ed30481510c3951ce94f26c4e1b2b11fe0ec7
-=======
-13. Nitchayaphan Kanpirompachira
 
-14. Akkharawat Burachokviwat
-
-<<<<<<< HEAD
->>>>>>> 75a1b64af4120ccf50e152a3338ed21978f3fc0d
-=======
 15. Thanwarat Aroonrung
->>>>>>> 132630f6b26375afc85f6016900c0fb2074b695f
+
+16. Piyarat Pearodwong
+
+17. Akira Sitdhikariyawat
+
+18. Natnicha Khongsoontorn
